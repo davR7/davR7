@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo!
+# Olá, seja bem-vindo!
 Neste espaço, quero mostrar um pouco minha jornada como desenvolvedor, enriquecendo-o com insights valiosos sobre minha experiência e contínuo processo de aprendizado.
 
 # 💻 Tech Stack:
